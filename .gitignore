@@ -1,0 +1,9 @@
+# Folder di root (luar)
+.venv/
+
+# Folder di dalam edam_records
+edam_records/test/
+edam_records/train/
+edam_records/valid/
+
+# Opsional: Abaikan juga file sampah Jupyter Notebook (saya lihat ada di gambar)
